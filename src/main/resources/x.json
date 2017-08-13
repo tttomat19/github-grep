@@ -1,0 +1,15 @@
+{
+  "object_url": "https://api.github.com/repositories/6296790/contents/spring-boot-samples/spring-boot-sample-test-nomockito/src/test/java/sample/testnomockito/SampleTestNoMockitoApplicationTest.java?ref\u003dcb7c0b503124f3163309e412c4734d7eb69fb339",
+  "object_type": "FileContent",
+  "property": "path",
+  "fragment": "SampleTestNoMockitoApplicationTest.java",
+  "matches": [
+    {
+      "text": "TestNoMockitoApplicationTest",
+      "indices": [
+        6,
+        34
+      ]
+    }
+  ]
+}

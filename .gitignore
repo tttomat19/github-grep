@@ -1,0 +1,10 @@
+*.iml
+.idea
+target
+
+application.properties
+
+users_page
+visited_files
+visited_repos
+visited_users
